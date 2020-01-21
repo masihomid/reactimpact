@@ -62,8 +62,8 @@
     "footer": [
         {
             "identifier": "normal8",
-            "title": "Made with Stackbit",
-            "url": "https://www.stackbit.com",
+            "title": "Made with Gatsby",
+            "url": "https://www.gatsbyjs.com",
             "weight": 4
         }
     ]

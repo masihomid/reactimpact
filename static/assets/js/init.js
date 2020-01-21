@@ -1,6 +1,6 @@
 window.onGatsbyInitialClientRender = function() {
 /*
-	Archetype by Pixelarity
+	reactimpact by Pixelarity
 	pixelarity.com | hello@pixelarity.com
 	License: pixelarity.com/license
 */

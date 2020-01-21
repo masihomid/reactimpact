@@ -1,8 +1,8 @@
-# Archetype
+# reactimpact
 
-A multi-layout theme with posts for Stackbit. [Live Demo](https://themes.stackbit.com/demos/archetype/blue)
+A multi-layout theme with posts for Stackbit. [Live Demo](https://themes.stackbit.com/demos/reactimpact/blue)
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-archetype)
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-reactimpact)
 
 ### Turn themes into CMS-powered websites
 
@@ -38,4 +38,4 @@ unibit build
 
 Develop this theme in the browser using CodeSandbox.
 
-[Fork in CodeSandbox](https://codesandbox.io/s/github/stackbithq/stackbit-theme-archetype)
+[Fork in CodeSandbox](https://codesandbox.io/s/github/stackbithq/stackbit-theme-reactimpact)
