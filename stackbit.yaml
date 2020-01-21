@@ -9,7 +9,7 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 metadata:
-  title: Archetype
+  title: reactimpact
   description: a multi-layout theme with posts
   author: Pixelarity
   authorURL: 'https://pixelarity.com'
@@ -24,9 +24,9 @@ metadata:
         large: images/demo-green-1024x768.png
 stackbit_banner:
   show_banner: true
-  name: Archetype
-  create_url: 'https://app.stackbit.com/create?theme=archetype'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-archetype'
+  name: reactimpact
+  create_url: 'https://app.stackbit.com/create?theme=reactimpact'
+  github_url: 'https://github.com/stackbithq/stackbit-theme-reactimpact'
 models:
   config:
     type: config
