@@ -1,35 +1,36 @@
 about:
-  enabled: true
-  title: Integer vitae sed feugiat
-  text: >-
-    Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
-    interdum tempus sagittis lorem tempus.
   actions:
-    - label: Learn More
-      url: /no-sidebar
-      is_primary: false
+    - is_primary: false
       is_scrolly: false
+      label: Learn More
+      url: /no-sidebar
+  enabled: true
+  text: >-
+    JAMstack web applications are the modern way of building blazing fast web
+    application leveraging all that cutting-edge cloud technologies coupling
+    with advancement of programming languages has to offer.
+  title: JAMstack web applications
 contact_methods:
   enabled: true
   methods_col1:
-    - type: contact_with_text
-      title: Address
-      icon: fa-map-marker
+    - icon: fa-map-marker
       text: |-
-        Untitled Corp  
-        1234 Fictional Road  
-        Suite 5432  
-        Nashville, TN 00000
+        ReactImpact INC.
+        Toronto,
+        Ontario,
+        Canada
+      title: Address
+      type: contact_with_text
   methods_col2:
-    - type: contact_with_text
-      title: Phone
-      icon: fa-phone
+    - icon: fa-phone
       text: (000) 000-0000
-    - type: contact_with_link
+      title: Phone
+      type: contact_with_text
+    - icon: fa-envelope-o
+      text: information@reactimpact.ca
       title: Email
-      icon: fa-envelope-o
-      text: information@untitled.tld
+      type: contact_with_link
       url: '#'
 copyright:
-  enabled: true
+  enabled: false
   text: '&copy; Untitled. All rights reserved.'
