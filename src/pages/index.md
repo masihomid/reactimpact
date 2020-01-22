@@ -2,7 +2,7 @@
 title: home
 banner:
   actions:
-    - is_huge: true
+    - is_huge: false
       is_primary: false
       is_scrolly: false
       label: Learn More
@@ -21,7 +21,11 @@ sections:
           enabled: true
           icon: fa-area-chart
           style: style1
-        title: Integer vitae consequat sed magna feugiat
+        title: >-
+          JAMSTACK WEB APPLICATIONS JAMstack web applications are the modern way
+          of building blazing fast web application leveraging all that
+          cutting-edge cloud technologies coupling with advancement of
+          programming languages has to offer. https://jamstack.org/
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
