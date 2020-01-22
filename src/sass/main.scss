@@ -133,7 +133,7 @@ $palette: (
 	@mixin banner-bg($image, $overlay: false) {
 		$background-image: (
 			'url("images/overlay.png")',
-			'linear-gradient(45deg, #{transparentize(_palette(gradient1), 0.35)}, #{transparentize(_palette(gradient2), 0.35)})',
+			'linear-gradient(45deg, #{transparentize(_palette(gradient1), 0.1)}, #{transparentize(_palette(gradient2), 0.35)})',
 			'url("#{$image}")'
 		);
 
@@ -157,7 +157,7 @@ $palette: (
 
 		@if $overlay {
 			$background-image: join(('linear-gradient(top, #{_palette(accent4, bg)}, #{_palette(accent4, bg)})'), $background-image);
-			$background-size: join((auto), $background-size);
+			$background-size: join((cover), $background-size);
 			$background-attachment: join((fixed), $background-attachment);
 			$background-repeat: join((repeat), $background-repeat);
 		}
