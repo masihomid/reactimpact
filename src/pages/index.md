@@ -7,8 +7,8 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: 'React Impact INC, offers modern cloud-based web applications.'
-  title: React Impact INC
+  subtitle: We develop modern cloud-based web applications.
+  title: React Impact
 sections:
   - component: Features
     features:
