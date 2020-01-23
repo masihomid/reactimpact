@@ -18,12 +18,13 @@ sections:
           has to offer.
 
 
-          ![Modern blazing fast websites ](/images/day20-rocket.png "blazing
+          ![Modern blazing fast websites
+          ](/images/day94-ui-ux-4b353d2aa0cef62ed72279cc5ee0ecee.png "blazing
           fast websites")
         icon:
           enabled: true
           icon: fa-area-chart
-          style: style2
+          style: style3
         title: 'Modern WEB APPLICATIONS '
       - description: >-
           Mobile applications can be used to elevate customer experience for
@@ -35,7 +36,7 @@ sections:
         icon:
           enabled: true
           icon: fa-pie-chart
-          style: style2
+          style: style3
         title: Mobile Applications for small businesses
       - description: >-
           ![custom software solutions](/images/day93-programing.png "custom
