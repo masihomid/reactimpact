@@ -12,10 +12,6 @@ sections:
           the way websites are built. 
 
 
-          [JAMstack ](jamstack.org)web applications are the modern way of
-          building blazing fast web application leveraging all that cutting-edge
-          cloud technologies coupling with advancement of programming languages
-          has to offer.
 
 
           ![Modern blazing fast websites
