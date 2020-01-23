@@ -39,13 +39,19 @@ sections:
           style: style3
         title: Mobile Applications for small businesses
       - description: >-
-          ![custom software solutions](/images/day93-programing.png "custom
-          software solutions")
+          <!--StartFragment-->
 
 
           We build software solutions and integrate it with your existing
           systems to help you get the highest return on your technology
           investment.
+
+
+          <!--EndFragment-->
+
+
+          ![custom software solutions](/images/day93-programing.png "custom
+          software solutions")
         icon:
           enabled: true
           icon: fa-cube
