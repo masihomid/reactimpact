@@ -1,29 +1,26 @@
 ---
 title: home
 banner:
-  actions:
-    - is_huge: false
-      is_primary: false
-      is_scrolly: false
-      label: Learn More
-      url: /no-sidebar
-  subtitle: We develop modern cloud-based web applications.
+  actions: []
+  subtitle: ''
   title: React Impact
 sections:
   - component: Features
     features:
       - description: >-
-          JAMstack web applications are the modern way of building blazing fast
-          web application leveraging all that cutting-edge cloud technologies
-          coupling with advancement of programming languages has to offer. 
+          The new era of websites are here. The time finally has come to change
+          the way websites are built. 
 
 
-          [https://jamstack.org/](< https://jamstack.org/>)
+          [JAMstack ](jamstack.org)web applications are the modern way of
+          building blazing fast web application leveraging all that cutting-edge
+          cloud technologies coupling with advancement of programming languages
+          has to offer.
         icon:
           enabled: true
           icon: fa-area-chart
           style: style1
-        title: 'JAMSTACK WEB APPLICATIONS '
+        title: 'Modern WEB APPLICATIONS '
       - description: >-
           Mobile applications can be used to elevate customer experience for
           returning customers of small businesses.
