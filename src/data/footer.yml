@@ -1,9 +1,9 @@
 about:
   actions:
-    - is_primary: false
-      is_scrolly: false
+    - is_primary: true
+      is_scrolly: true
       label: Learn More
-      url: /no-sidebar
+      url: /JAMStack
   enabled: true
   text: >-
     JAMstack web applications are the modern way of building blazing fast web
