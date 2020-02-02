@@ -58,22 +58,17 @@ sections:
   - actions:
       - is_primary: true
         is_scrolly: false
-        label: What is JAMstack web application?
+        label: Contact us!
         url: /contact
     component: Cta
     section_id: cta
-    text: >-
+    text: |-
       <!--StartFragment-->
 
-
-      "A modern web development architecture based on client-side JavaScript,
-      reusable APIs, and prebuilt Markup"
-
+      Contact us
 
       <!--EndFragment-->
-    title: >-
-      JAMstack Website brings Security , Scalablity , Maintainability and
-      improved SEO compatibility out of the box!
+    title: How it works?
     type: cta
   - component: Posts
     section_id: posts
