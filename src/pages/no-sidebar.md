@@ -63,7 +63,7 @@ subtitle: >-
 content_img:
   enabled: true
   path: /images/day94-ui-ux-4b353d2aa0cef62ed72279cc5ee0ecee.png
-  url: /JAMStack
+  url: '#'
 sidebar:
   enabled: false
   side: left
