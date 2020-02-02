@@ -56,20 +56,24 @@ sections:
     section_id: features
     type: features
   - actions:
-      - is_primary: false
+      - is_primary: true
         is_scrolly: false
-        label: How it works
+        label: What is JAMstack web application?
         url: /contact
     component: Cta
     section_id: cta
     text: >-
-      Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
-      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
-      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
-      lorem feugiat. In fringilla diet consectetur.
-    title: Ultrices ante sagittis nunc senectus libero netus
+      <!--StartFragment-->
+
+
+      "A modern web development architecture based on client-side JavaScript,
+      reusable APIs, and prebuilt Markup"
+
+
+      <!--EndFragment-->
+    title: >-
+      JAMstack Website brings Security , Scalablity , Maintainability and
+      improved SEO compatibility out of the box!
     type: cta
   - component: Posts
     section_id: posts
